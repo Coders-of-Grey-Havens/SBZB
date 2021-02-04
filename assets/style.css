@@ -5,11 +5,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 .card_pic {
-  border: 1px solid #002a5a;
+  border: 1px solid #fd004b;
 }
 .banner_cont {
   height: 50vh;
-  background-color: #002a5a;
+  background-color: #fd004b;
 }
 .container {
   width: 75%;
@@ -51,7 +51,7 @@ body {
   height: 10vh;
   width: 100%;
 
-  background-color: #002a5a;
+  background-color: #fd004b;
 }
 a {
   color: #000;
@@ -237,7 +237,7 @@ a {
   width: 100%;
   position: relative;
   height: auto;
-  background-color: #070617;
+  background-color: #ca033f;
 }
 .footer .col {
   width: 190px;
@@ -344,7 +344,7 @@ a {
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #002a5a;
+  background-color: #fd004b;
 }
 
 .header li a {
@@ -456,7 +456,7 @@ a {
 }
 .popUp {
   position: fixed;
-  background-color: #002a5a;
+  background-color: #fd004b;
   border-radius: 5px;
   margin-top: 40vh;
   width: 30vw;
